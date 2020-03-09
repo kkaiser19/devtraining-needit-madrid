@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Open existing incident record, validate the desc containing the string email, verify.</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <name>Validate Email Incident</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-09 13:38:25</sys_created_on>
+        <sys_id>030968802f23001060793e0ef699b674</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Validate Email Incident</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_030968802f23001060793e0ef699b674</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-09 13:38:25</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=030968802f23001060793e0ef699b674"/>
+</record_update>
